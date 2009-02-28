@@ -1,0 +1,7 @@
+development:
+  adapter: mysql
+  database: qmpass_dev
+  username: qmpass
+  password: pass0203$
+  host: localhost
+
