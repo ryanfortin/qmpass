@@ -5,3 +5,23 @@ development:
   password: pass0203$
   host: localhost
 
+test:
+  adapter: mysql
+  database: qmpass_dev
+  username: qmpass
+  password: pass0203$
+  host: localhost
+
+staging:
+  adapter: mysql
+  database: parlec_stage
+  username: parlec
+  password: archemu0203
+  host: localhost
+
+production:
+  adapter: mysql
+  database: qmpass
+  username: root
+  password: r3db34r
+  host: localhost
